@@ -166,6 +166,7 @@ Skills are not MCP servers and not tools. MCP defines how an agent connects to e
 - [Domain Name Brainstormer](./domain-name-brainstormer/) - Generates creative domain name ideas and checks availability across multiple TLDs including .com, .io, .dev, and .ai extensions.
 - [Internal Comms](./internal-comms/) - Helps write internal communications including 3P updates, company newsletters, FAQs, status reports, and project updates using company-specific formats.
 - [Lead Research Assistant](./lead-research-assistant/) - Identifies and qualifies high-quality leads by analyzing your product, searching for target companies, and providing actionable outreach strategies.
+- [Reddit Marketing Skills](https://github.com/rdoyle99/reddit-marketing-skills) - 10 skills for Reddit marketing: find the subreddits and threads ChatGPT, Perplexity and Gemini cite, write comments and posts that follow subreddit rules, keep accounts healthy, listen, and run Reddit Ads. Uses a free read-only MCP with AI-citation data. *By [@rdoyle99](https://github.com/rdoyle99)*
 
 ### Communication & Writing
 
